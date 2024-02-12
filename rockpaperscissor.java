@@ -12,7 +12,7 @@ public class Main {
         {
             System.out.print("Enter your choice: ");;
             int s1=s.nextInt();
-            int r1=r.nextInt(2);
+            int r1=r.nextInt(3);
             if(r1==0)
             {
                 op="ROCK";
